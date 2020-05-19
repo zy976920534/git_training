@@ -1,2 +1,2 @@
-# git_training
-learning for git
+# git_training 
+learning for github
